@@ -1,0 +1,46 @@
+"Timestamp","Since joining GitHub, did you successfully make a contribution to any Open Source Software project?","1. Social Interactions: barriers related to the manner in which newcomer candidates interact with community members.","2. Newcomer Previous Knowledge: barriers related to the experience of newcomer candidates regarding the project and the manner in which they show experience when joining the projects.","3. Finding a way to start: barriers related to difficulties that newcomer candidates face when trying to find the right way to start contributing.","4. Technical Hurdles: barriers imposed by the project when newcomer candidates are dealing with the code.","5. Documentation: barriers related to documentation problems like outdated documentation, too much documentation, unclear code comments.","Please leave your comments or thoughts on any of these barriers and advice about overcoming these barriers."
+"2020/09/03 10:52:08 PM GMT+9","No","1","2","4","2","1",""
+"2020/09/03 10:54:02 PM GMT+9","No","4","3","4","4","2",""
+"2020/09/03 10:54:04 PM GMT+9","Yes","3","3","4","5","5",""
+"2020/09/03 10:55:32 PM GMT+9","Yes","3","3","5","4","3",""
+"2020/09/03 11:01:55 PM GMT+9","Yes","3","3","4","3","2",""
+"2020/09/03 11:10:48 PM GMT+9","No","2","5","4","4","4",""
+"2020/09/03 11:13:43 PM GMT+9","Yes","4","3","5","3","5",""
+"2020/09/03 11:15:00 PM GMT+9","Yes","2","5","3","4","2",""
+"2020/09/03 11:17:50 PM GMT+9","Yes","3","3","4","4","4",""
+"2020/09/03 11:30:00 PM GMT+9","Yes","3","4","4","4","3",""
+"2020/09/03 11:32:14 PM GMT+9","Yes","3","3","3","4","2",""
+"2020/09/04 12:14:48 AM GMT+9","No","2","5","4","4","2","It is difficult to find the beginner-friendly projects in GitHub. The codebase is very complex and difficult to understand at least for a person who has never contributed to release ready junk of code."
+"2020/09/04 1:07:10 AM GMT+9","No","3","4","4","3","3",""
+"2020/09/04 1:39:09 AM GMT+9","Yes","3","2","5","2","3",""
+"2020/09/04 9:36:42 AM GMT+9","Yes","3","4","5","4","3",""
+"2020/09/04 1:55:20 PM GMT+9","Yes","2","4","5","4","4",""
+"2020/09/04 3:26:45 PM GMT+9","No","3","4","4","4","3",""
+"2020/09/04 5:24:45 PM GMT+9","Yes","4","4","4","4","4",""
+"2020/09/07 11:33:47 AM GMT+9","Yes","2","4","5","5","2","In my case, I first aim to contribute technically. However, my skill is not sufficient to contribute to most mainstream projects that are well established technically."
+"2020/09/07 12:45:34 PM GMT+9","Yes","3","3","3","3","3",""
+"2020/10/13 4:27:55 PM GMT+9","Yes","5","4","2","3","4",""
+"2020/10/13 4:36:38 PM GMT+9","Yes","4","5","5","5","3","As a newcomer, I'd welcome to have difficulty tiers where I could start with the easiest until the hardest so I didn't feel frustrated by not being able to do something."
+"2020/10/13 6:07:19 PM GMT+9","Yes","5","5","5","4","5",""
+"2020/10/13 6:40:05 PM GMT+9","No","3","5","5","3","5","  "
+"2020/10/13 6:56:22 PM GMT+9","Yes","3","4","4","4","4",""
+"2020/10/13 9:20:12 PM GMT+9","Yes","2","4","5","4","3",""
+"2020/12/09 4:11:37 AM GMT+9","No","5","3","5","5","5","// Please do NOT publish these comments with my real identity !!!!!!!!
+
+I've tried to work on an open source project one year ago. Failed because there was no onboarding support. People weren't rude, but didn't have patience to offer help. 
+
+Tried for about 4 months (4-6 hours/day) to do some reverse engineering on their code. It was some web application with back-end in Java and whose front-end I was unable to locate (might have been written in Javascript or some other programming language that I was not familiar with). When I tried to test some work I realized I couldn't see how requests go through the layers, since I couldn't locate the front end code. There was some logging system, but did not contain enough information for me. I could have used a chronological list of methods that were being executed, to figure out how modules interact. There were way too many source code files to start adding logs for each of them.
+
+I only interacted with the team at the beginning, when I had trouble with setting up my Java workspace. They were kind enough to tell me to use another Java IDE than the one written in their guide, and the new IDE automatically loaded everything and worked great. I was also able to successfully run the application. After that, I went through their online documentation and the Java code, for 4 months. During this time, I didn't communicate with the team, because I was afraid of asking stupid questions. I was saving my questions for when I would have finished reading the documentation and the vast code. They had a chat where I was logged, invisible. Every week, 2 or 3 new people were joining, than leaving and never coming back. They were probably leaving because they were not getting enough support. From the other side, they were probably not offering support because people were thinking that the newcomers were going to leave anyway.
+
+In the chat where I was invisibly present, I read some conversations that kind of scared me. People were polite with newcomers at the beginning, but lacked patience. Usually newcomers got to ask around 3 questions before being discouraged with the ""we expect newcomers to at least know that"" reply. That kind of behavior inhibited me from asking questions of my own. I was always under the impression that I was granted 3 wishes after which I was going to be on my own. For fear of not wasting my share of question with stupid questions, I eventually ended up with not asking anything anymore.
+
+The project was interesting and even if the code did not have comments with explanations, I learned something about Java, REST API and Swagger by simply reading the code and online tutorials, even if I did not deliver anything. On the other hand, the more I stayed in that environment, the more demotivated I became and that lead to lower self-esteem and not having courage to try my luck someplace else after giving up that project.
+
+Lately, I've been writing small (a few hundreds of lines of code each) Java programs of my own and publishing them on GitHub, but I didn't have the courage to try again to contribute to an external open source project. I keep telling myself that someday I'll try again, but I haven't been able to overcome my fears, yet. In the mean time, I constantly read materials about contributing to open source, but most of them are abstract articles saying that anybody can do it, that you don't have to be a genius, which remind me of those ""how to lose 10 kg in one month without any effort"" articles that miss the recipe on how to actually do it. Occasionally, I get some optimism by finding a success story where someone explains that they found some actually nice people that offered their help to newcomers. I am still to find such a story about a project with the technologies I am interested in.
+
+I'm guessing that the key to success is a team where communication and knowledge sharing is encouraged. For my next attempts on contributing to open source, I'll try to find a team where I would feel comfortable enough to ask for help if needed. The priority would be to make friends fast and if that is not possible, to quickly leave and find other projects before I get too demotivated to try with others. One lesson that I learned from my only OSS experience is that sometimes it is better to quit, so you could have the chance of succeeding someplace else.
+
+A chat is crucial for an OSS project, so I would still search for a project that has a chat channel. Documentation is nice to have, but it does not replace human interaction. I'd rather be in a team where nothing is documented but people talk to you, instead of a team where people are hiding behind an incomplete documentation when you ask for help. Also, documented projects attract many people, and obviously old members don't have time to help all new members. For those reasons, I'd rather search for projects without documentation.
+
+I'm curious how people get to succeed when trying to contribute to OSS. I know that there are many projects where they say all contributors are welcome, regardless of their skill level (the one where I failed also had such claims), but I am curious how many actually mean it. If you know people that succeeded to Java OSS, I would appreciate a list of those particular projects. I am also curious what kind of people contribute. I found many articles which say the main people contribute because of altruism, but I don't know what to believe. Technically, if they're altruistic, they should be nice people. On the other hand, you could be generous when delivering code, but lack the enthusiasm of teaching others (my main motivation for contributing to OSS is to grow my skills, but I am willing to help others, if I can). From beginners that succeeded in OSS jungle I would like to know what kind of people they met and if nice people are the rule, or the exception."
