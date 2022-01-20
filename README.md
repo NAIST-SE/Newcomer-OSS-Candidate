@@ -39,3 +39,14 @@ The ability of an Open Source Software (OSS) project to attract, onboard, and re
 4. [Takashi Ishio](https://takashi-ishio.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
 5. [Kenichi Matsumoto](http://isw3.naist.jp/Contents/Research/cs-05-en.html), Nara Institute of Science and Technology (NAIST), Nara, Japan.
 
+
+
+
+## MIT License for code
+Our SZZ implementation is licensed under the [MIT License](LICENSE).
+
+## CC0 1.0 Universal for dataset
+CC0 [summary](https://creativecommons.org/publicdomain/zero/1.0/) and [legal text](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+
+Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
+
