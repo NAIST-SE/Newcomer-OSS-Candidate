@@ -18,7 +18,7 @@ The ability of an Open Source Software (OSS) project to attract, onboard, and re
   3. [Survey](https://github.com/ifrazrehman/NewcomerCandidate/tree/master/survey)- is a folder that contains the survey obtained from participants.
 
 ## How to run:
-  1. Clone the repository from [here](https://github.com/ifrazrehman/NewcomerCandidate.git) and the Dataset from [here](https://github.com/frazrehman/NewcomerCandidate/tree/master/data)
+  1. Clone the repository from [here](https://github.com/ifrazrehman/NewcomerCandidate.git) and the Dataset from [here](https://github.com/ifrazrehman/NewcomerCandidate/tree/master/data)
   2. Extract the files.
   3. Open `Jupyter Notebook` or `Python Spyder`.
   4. Copy any code and Set your working directory using 
