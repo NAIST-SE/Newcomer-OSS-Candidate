@@ -29,8 +29,6 @@ The ability of an Open Source Software (OSS) project to attract, onboard, and re
                 #Please specify your dataset directory. 
                 os.chdir("..../Dataset/")
                 ```
-                
-  5. Example-1: Run the git-blame command at Algorithm1 **[Rq3_quantitative_analysis_part2.py](https://github.com/ifrazrehman/NewcomerCandidate/master/script/Rq3_quantitative_analysis_part2.py)** 
 
 ## Authors:
 1. [IFraz Rehman](https://ifrazrehman.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
