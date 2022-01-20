@@ -16,3 +16,26 @@ The ability of an Open Source Software (OSS) project to attract, onboard, and re
   1. [Data](https://github.com/ifrazrehman/NewcomerCandidate/tree/master/data)- is a folder that contains the dataset for `Newcomer Candidate project`.
   2. [Scripts](https://github.com/ifrazrehman/NewcomerCandidate/tree/master/script)- is a folder that contains the all the codes. 
   3. [Survey](https://github.com/ifrazrehman/NewcomerCandidate/tree/master/survey)- is a folder that contains the survey obtained from participants.
+
+## How to run:
+  1. Clone the repository from [here](https://github.com/ifrazrehman/NewcomerCandidate.git) and the Dataset from [here](https://github.com/frazrehman/NewcomerCandidate/tree/master/data)
+  2. Extract the files.
+  3. Open `Jupyter Notebook` or `Python Spyder`.
+  4. Copy any code and Set your working directory using 
+                
+                ```
+                import os
+                
+                #Please specify your dataset directory. 
+                os.chdir("..../Dataset/")
+                ```
+                
+  5. Example-1: Run the git-blame command at Algorithm1 **[Rq3_quantitative_analysis_part2.py](https://github.com/ifrazrehman/NewcomerCandidate/master/script/Rq3_quantitative_analysis_part2.py)** 
+
+## Authors:
+1. [IFraz Rehman](https://ifrazrehman.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
+2. [Dong Wang](https://dong-w.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
+3. [Raula Gaikovina Kula](https://raux.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
+4. [Takashi Ishio](https://takashi-ishio.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
+5. [Kenichi Matsumoto](http://isw3.naist.jp/Contents/Research/cs-05-en.html), Nara Institute of Science and Technology (NAIST), Nara, Japan.
+
